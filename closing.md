@@ -117,9 +117,8 @@ class: middle
 
 ## Exam
 
-- 1 question on the fundamentals of deep learning (lectures 1 to 4)  
-- 1 question on advanced topics (lectures 5 to 12) 
-- short technical questions on your project 
+- Oral evaluation on a randomly selected topic from the course. 30 minutes of preparation, 30 minutes of discussion.
+- Short technical questions on your project, including its code.
 
 ---
 
@@ -134,7 +133,7 @@ class: middle
 - INFO8003: Reinforcement Learning
 - INFO0948: Introduction to Intelligent Robotics
 - ELEN0016: Computer vision
-- INFO9023: Machine Learning Systems Design )
+- INFO9023: Machine Learning Systems Design 
 
 ---
 
